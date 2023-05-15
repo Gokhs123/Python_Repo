@@ -1,3 +1,3 @@
 # Python Repo
 
-Codes to strengthen the basic foundatioons of Python
+Codes to strengthen the basic foundations of Python
